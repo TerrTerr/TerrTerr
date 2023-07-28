@@ -1,4 +1,4 @@
 -Hi I'm Terry
 -I'm a long time improv comedian who fell in love with AI when I worked with a student of mine to create an AI powered improv comedy practice app. Visit it here: https://ornate-pasca-e2e545.netlify.app/
 -I run the Radical Agreement Project, an improv teaching website, you can visit it here: www.radicalagreement.com
--I am training mysef in Python and Javascript with an eye towards a future carer in computer science
+-I am training mysef in Python and Javascript and other computer science track skills.
